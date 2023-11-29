@@ -18,7 +18,7 @@ body {
 /*CONTAINER*/
 .container {
   width: 100%;
-  max-width: 1160;
+  max-width: 1160px;
   padding-left: 30px;
   padding-right: 30px;
   margin-left: auto;
@@ -97,7 +97,6 @@ body {
 }
 .sitenav-site-footer .sitenav-link:active {
   color: #fff;
-  opacity: 0.6;
 }
 /* maon link*/
 .main-link {
